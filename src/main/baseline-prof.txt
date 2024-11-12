@@ -1,0 +1,4 @@
+# Baseline profile rules for com.kyant.fastkt
+# =============================================
+HSPLcom/kyant/fastkt/MathHelpersKt;->lerp(FFF)F
+Lcom/kyant/fastkt/MathHelpersKt;
