@@ -6,7 +6,7 @@ From https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main
 
 ## Add to project
 
-[![JitPack Release](https://jitpack.io/v/Kyant0/fastkt.svg)](https://jitpack.io/#Kyant0/FastKt)
+[![JitPack Release](https://jitpack.io/v/Kyant0/fastkt.svg)](https://jitpack.io/#Kyant0/fastkt)
 
 ```kotlin
 allprojects {
